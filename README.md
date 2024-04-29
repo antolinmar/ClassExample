@@ -11,4 +11,10 @@ Notably, in this example, we will design a model to predict employee attrition i
 
 Both models predict with good accuracy whether the employee will leave or not the company. However, considering the Area Under Curve (AUC) of the ROC curve as metric to asses the quality of the binary classifier, the XGBoost-model is better.
 
+<p align="center">
+<img src='./images/RandomForest_ROC.png' width='400'>
+</p>
 
+<p align="center">
+<img src='./images/XGBoost_ROC.png' width='400'>
+</p>
